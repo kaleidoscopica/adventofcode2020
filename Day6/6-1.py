@@ -1,5 +1,3 @@
-import csv
-
 def main():
 
     customs_questions = []

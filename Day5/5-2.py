@@ -1,5 +1,3 @@
-import csv
-
 def main():
 
     boarding_passes = []
